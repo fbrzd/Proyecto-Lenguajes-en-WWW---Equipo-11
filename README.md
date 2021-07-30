@@ -1,5 +1,4 @@
 # Proyecto-Lenguajes-en-WWW---Equipo-11
 Proyecto Lenguajes en WWW - Equipo 11
 
-![imagen](https://user-images.githubusercontent.com/50089089/127595203-82ada11e-691c-4c94-8136-989b30a86f4f.png)
-
+![imagen](https://user-images.githubusercontent.com/50089089/127596038-99a42f04-5d0d-4565-8c90-d797ede2b111.png)
